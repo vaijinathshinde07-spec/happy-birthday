@@ -1,0 +1,6 @@
+{
+  "name": "The Universe Celebrates Salma",
+  "description": "An extraordinary, immersive, Apple-quality interactive celestial birthday experience celebrating Salma with 3D galaxies, interactive constellations, glowing letters, and magical wish moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
